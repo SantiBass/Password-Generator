@@ -7,3 +7,5 @@
  to choose numbers, upper or lower characters, etc to be part of the password.
 Once again, VS Code sofware Version: 1.60.2 was used in the developent of this project along
 with Google Chrome. Google Chrome Dveloper Tool is a powerful tool that was used in the prosess to achieve the final product.
+
+https://santibass.github.io/Password-Generator/
